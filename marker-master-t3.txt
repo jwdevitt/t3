@@ -1,4 +1,4 @@
 
 marker
-we are in jwdevitt/master/t3
+we are in jwdevitt/t3/master
 for sure
